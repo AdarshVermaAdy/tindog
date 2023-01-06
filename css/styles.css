@@ -115,3 +115,37 @@ padding-bottom: 4rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
 }
+@media(max-width:992px) {
+
+.title-img{
+
+    width: 50%;
+    transform: rotate(0);
+    margin-bottom: 5rem;
+    margin-top: 2rem;
+    align-items: center;
+}
+
+}
+#cta{
+    font-family: "Montserrat-Black";
+    font-weight: bolder;
+    background-color: #ff4c68;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+.downl-button{
+    margin-top: 3rem;
+    margin-bottom: 9rem;
+}
+.cta-h{
+    padding-top: 7rem;
+}
+#footer{
+    text-align: center;
+    margin-top: 0;
+}
+.myicon{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
